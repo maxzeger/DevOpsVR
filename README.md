@@ -1,29 +1,5 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+The Unity project and more can be found here: https://drive.google.com/drive/folders/1PGRPZ2dzdZsy3cpOZMTANVL1EfZzUsL9?usp=sharing
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+The project also led to this paper: https://www.hs-aalen.de/uploads/publication/file/11504/ICSEA24_VR-DevOps_OberhauserCR.pdf which received this award: https://www.iaria.org/conferences2024/awardsICSEA24/icsea2024_a5.pdf
